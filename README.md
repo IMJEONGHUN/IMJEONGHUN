@@ -30,3 +30,7 @@ c++코드입니다.
 
 IT Computer Homepage 
 
+
+### Usage
+1. Install c++
+2. Install  protobuf
